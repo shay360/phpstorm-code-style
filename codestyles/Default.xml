@@ -1,7 +1,13 @@
 <code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <PHPCodeStyleSettings>
+    <option name="ELSE_IF_STYLE" value="COMBINE" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
   </PHPCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="CLASS_BRACE_STYLE" value="1" />
